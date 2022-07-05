@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#212426</color>
+    <color name="purple_500">#212426</color>
+    <color name="purple_700">#111112</color>
+    <color name="teal_200">#212426</color>
+    <color name="teal_700">#212426</color>
+    <color name="black">#433F3F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="copper_text_color">#f9d3b4</color>
+    <color name="copper_text_color_30">#33f9d3b4</color>
+    <color name="synth_color">#212426</color>
+    <color name="gray">#393535</color>
+
+    <color name="green">#297A2C</color>
+    <color name="red">#C53C39</color>
+
+</resources>

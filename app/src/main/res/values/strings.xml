@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crypto Exchange</string>
+    <string name="rs">\u20A8</string>
+    <string name="low_price">Low Price</string>
+    <string name="high_price">High Price</string>
+    <string name="last_price">Last Price</string>
+    <string name="volume">Volume</string>
+    <string name="open_price">Open Price</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="inr">/INR</string>
+</resources>
